@@ -1,4 +1,5 @@
 streamlit
-Orange3==3.38.0
+orange3
 pandas
 numpy
+scikit-learn
